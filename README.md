@@ -8,6 +8,8 @@ I’m currently working on perfecting my first top-to-bottom project, which is a
 
 My next project will be an NFL news website, since I'm an alarmingly avid Eagles fan. Yes, I'm a masochist.
 
+📢 Fluent in English and French 📢
+
 Reach me: <a href = "mailto: lydia.g.stewart@outlook.com">lydia.g.stewart@outlook.com</a>
 
 
