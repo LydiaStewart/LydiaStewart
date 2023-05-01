@@ -10,6 +10,6 @@ My next project will be an NFL news website, since I'm an alarmingly avid Eagles
 
 🗣✏️ English and French ✏️🗣
 
-Reach me: <a href = "mailto: lydia.g.stewart@outlook.com">lydia.g.stewart@outlook.com</a>
+Reach me: <a href = "mailto: lydia.g.stewart@outlook.com">lydia.g.stewart@outlook.com</a> · <a href= "linkedin.com/in/lydia-stewart-mtl">LinkedIn</a>
 
 
