@@ -4,9 +4,9 @@
 
 I'm Lydia, and if you're looking for a React developer who is fresh off an intensive web dev program and eager to learn to more, look no longer... My experience at Concordia Bootcamps has taught me how to prioritize developing my work over getting a good night's sleep, among other things 🫠.
 
-I’m currently working on perfecting my first top-to-bottom project, which is a full-stack web application for book lovers using Google Books API. It was accepted by Concordia and subsequently allowed me to graduate, and yet I found myself back at the computer desk for hours that same day, fresh with new ideas to evolve the design and functionality. Every day I'm trying to grow my skills to fit my vision.
+I’m currently working on perfecting my first top-to-bottom project, which is a full-stack web application for book lovers using Google Books API. It was accepted by Concordia and subsequently allowed me to graduate, and yet I found myself back at the computer desk for hours that same day, fresh with new ideas to evolve the design and functionality. I'm trying to grow my skills to fit my vision.
 
-My next project will be an NFL news website, since I'm an alarmingly avid Eagles fan. Yes, I'm a masochist.
+Currently studying Python! 🐍
 
 🗣✏️ English and French ✏️🗣
 
